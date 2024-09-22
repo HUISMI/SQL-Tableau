@@ -124,7 +124,7 @@ Google Cloud의 OLAP + Data Warehouse
 
 ## 데이터 활용 과정
 
-![sql이 쓰이는 과정](../sql/img/week1/week1_img1.png)
+![sql이 쓰이는 과정](../img/week1/week1_img1.png)
 
 - 위 사진의 주황색 박스가 바로 SQL이 사용되는 과정이다.
 
@@ -177,4 +177,4 @@ Google Cloud의 OLAP + Data Warehouse
 
 # 인증
 
-![수강인증](../sql/img/week1/week1_img2.png)
+![수강인증](../img/week1/week1_img2.png)
