@@ -23,7 +23,7 @@ SELECT seller_id, COUNT(DISTINCT order_id) AS orders
 
 ## 몇 분이서 오셨어요?
 
-![몇 분이서 오셨어요?](../img/week2/몇%20분이서%20오셨어요?.png)
+![몇 분이서 오셨어요?](../img/week2/몇%20분이서%20오셨어요.png)
 
 ### 코드
 
@@ -32,3 +32,27 @@ SELECT *
   FROM tips
   WHERE size%2 == 1;
 ```
+
+## 최고의 근무일을 찾아라
+
+![최고의 근무일을 찾아라](../img/week2/최고의%20근무일을%20찾아라.png)
+
+### 코드
+
+```SQL
+SELECT day, ROUND(daily_tip, 2) AS tip_daily
+  FROM (
+    SELECT day, SUM(tip) AS daily_tip
+      FROM tips
+      GROUP BY day
+  )
+  ORDER BY daily_tip DESC
+  LIMIT 1;
+```
+
+- 서브쿼리의 중요성
+  - 서브쿼리에서 미리 `GROUP BY`를 하고, 서브쿼리에서 정의한 컬럼명을 본쿼리에서 사용.
+  - <**주의**> 서브쿼리에서 이미 집계함수를 사용했으므로 본 쿼리에서 집계함수를 사용하지 않도록 하기
+    <br>
+    <br>
+- 가장 큰 값을 출력하려면 어렵게 생각하지 말고, 그냥 `DESC`하고 `LIMIT 1` 걸기!
