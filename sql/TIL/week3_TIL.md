@@ -16,7 +16,7 @@ SELECT USER_.USER_ID, USER_.NICKNAME, SUM(BOARD.PRICE) AS TOTAL_SALES
     ORDER BY TOTAL_SALES ASC;
 ```
 
-- `JOIN`할 때 다른 테이블의 별명 설정 후 굳이 `FROM`절에 적지 않고 `SELECT`절에 써도 되는구나!
+- `JOIN`할 때 다른 테이블의 별명 설정 후 굳이 `FROM`절에 적지 않고 `JOIN`절에 써도 되는구나!
 - `JOIN` 정확히 어떻게 사용하는지 파악 완료
 
 ## 업그레이드 할 수 없는 아이템 구하기
