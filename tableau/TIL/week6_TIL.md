@@ -23,41 +23,78 @@
 
 > **🧞‍♀️ 오늘은 강의보다 실습과 대시보드 직접 만들기가 더 중요하니, 기록보다는 사고하며 강의를 들어주세요.**
 
+이번주차는 정리보다 강의의 활용을 중점적으로 두어 정리를 크게 따로 진행하진 않았습니다
+
 ## 48. 워크시트 서식(2)
 
 <!-- 워크시트에 관해 본 강의에서 알게 된 점을 적어주세요 -->
+
+[48강](https://youtu.be/mfEodrj5I-4?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/48.png" alt="48" style="width: 80%; height: auto;">
 
 ## 49강. 대시보드패널
 
 <!-- 대시보드패널 강의에서 알게 된 점을 적어주세요. -->
 
+[49강](https://youtu.be/NGMEskrsRfI?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/49.png" alt="49" style="width: 80%; height: auto;">
+
 ## 50. 대시보드 구성방식
 
 <!-- 알게 된 점을 적고, 아래 질문에 답해보세요 :) -->
 
+[50강](https://youtu.be/wv2Zy6QcN-o?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/50.png" alt="50" style="width: 80%; height: auto;">
+
 > **🧞‍♀️ 부동과 바둑판식 방식을 차이를 중점으로 기술해보세요**
+
+- 부동 레이아웃은 원하는 위치에 특정 요소를 배치하여 자유로운 디자인을 구현 가능하다.
+  하지만 화면 크기가 달라질 경우 요소가 의도한 대로 안보일 수 있다
+
+- 바둑식판 레이아웃은 화면 크기에 따라 각 셀의 크기가 자동으로 조절되어 다양한 기기에서 편리하지만, 레이아웃이 일관적이다.
 
 ## 51. 대시보드 컨테이너
 
+[51강](https://youtu.be/6vwKuYVatp8?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/51.png" alt="51" style="width: 80%; height: auto;">
+
 ## 52. 레이아웃 패널
 
+[52강](https://youtu.be/q9rcKBWbdF8?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/52.png" alt="52" style="width: 80%; height: auto;">
+
 ## 53. 필터 동작
+
+[53강](https://youtu.be/UHu7Vq2JGXo?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/53.png" alt="53" style="width: 80%; height: auto;">
 
 <!-- 필터 동작에 대해 알게 된 점을 적어주세요 -->
 
 ## 54. 대시보드 하이라이터 동작
 
+[54강](https://youtu.be/K8wocb9NBcI?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/54.png" alt="54" style="width: 80%; height: auto;">
+
 <!-- 하이라이터에 대해 알게 된 점을 적어주세요 -->
 
 ## 55. 대시보드 URL
+
+[55강](https://youtu.be/_Qyx9asHwTw?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/55.png" alt="55" style="width: 80%; height: auto;">
 
 <!-- URL에 대해 알게 된 점을 적어주세요 -->
 
 ## 56. 대시보드 시트에 이동 동작
 
+[56강](https://youtu.be/YUdEzpcMeyY?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/56.png" alt="56" style="width: 80%; height: auto;">
+
 <!-- 대시보드 시트에 이동에 대해 알게 된 점을 적어주세요!-->
 
 ## 57. 매개변수 변경 동작
+
+[57강](https://youtu.be/sgqSFTRR9kU?list=PL87tgIIryGsa5vdz6MsaOEF8PK-YqK3fz)<br><br>
+<img src="../img/week6/57.png" alt="57" style="width: 80%; height: auto;">
 
 <!-- 매개변수 변경 동작에 대해 알게 된 점을 적어주세요!-->
 
