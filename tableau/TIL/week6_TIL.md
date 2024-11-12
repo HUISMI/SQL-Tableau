@@ -70,3 +70,12 @@
 **단, 워크시트 3개 이상의 그래프를 표시해야 하며 각 시트 간 상호작용성 필터 or 하이라이트 동작은 꼭 추가되어야 합니다**
 
 어떤 부분에 가중을 두었는지, 어떤 사용자 편의성을 고려하였는지에 대한 설명이 필요합니다.
+
+---
+
+### 국가를 클릭하면 월별매출, 범주별 매출, 제품별 매출이 해당 국가에 맞게 변경됩니다.
+
+<br>
+<img src="../img/week6/Dashboard.png" alt="dashboard" style="width: 80%; height: auto;">
+<img src="../img/week6/dash2.png" alt="dash2" style="width: 80%; height: auto;">
+<img src="../img/week6/dash3.png" alt="dash3" style="width: 80%; height: auto;">
