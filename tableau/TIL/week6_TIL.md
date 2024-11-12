@@ -65,13 +65,6 @@
 
 오늘은 별도의 문제가 없습니다.
 
-![1](../study/img/3rd%20study/1688556627184.png)
-
-![1](../study/img/3rd%20study/Global%20SuperStore%20Dashboard.png)
-
-![2](../study/img/3rd%20study/images.jpeg)
-![2](../study/img/3rd%20study/maxresdefault.jpg)
-
 여러 대시보드를 참고하시어, superstore 데이터를 사용해 나만의 대시보드를 제작해주세요.
 
 **단, 워크시트 3개 이상의 그래프를 표시해야 하며 각 시트 간 상호작용성 필터 or 하이라이트 동작은 꼭 추가되어야 합니다**
