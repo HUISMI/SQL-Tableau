@@ -43,7 +43,7 @@ SELECT ANIMAL_ID, NAME,
 
 - `IF문`에서 `LIKE`를 사용하는 방법을 잘 알 수 있었다.
 
-### 문제 4. QnA 질문 해결해주기
+### 문제 4. QnA 해결해주기
 
 [QnA\_링크](https://school.programmers.co.kr/questions/80270)
 
