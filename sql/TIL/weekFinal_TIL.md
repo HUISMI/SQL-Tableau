@@ -6,8 +6,7 @@
 
 [유튜브 링크](https://www.youtube.com/watch?v=FINRIH6Bmq0)
 
-**정의와 목적**  
-PIVOT과 UNPIVOT은 2024년 SQL 커리큘럼에 새롭게 추가된 기능으로, 데이터 구조를 변환하여 Excel 및 SQL에서 데이터를 보다 효과적으로 분석하고 시각화할 수 있도록 돕는 중요한 작업
+PIVOT과 UNPIVOT은 데이터 구조를 변환하여 Excel 및 SQL에서 데이터를 보다 효과적으로 분석하고 시각화할 수 있도록 돕는 중요한 작업
 
 ---
 
